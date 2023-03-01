@@ -1,4 +1,4 @@
-#Tuban Lee
+#Copyright 2023 Tuban Lee
 
 #require foreach and doparallel for parallel processing of bootstrap (not available for some types of computers)
 if (!require("foreach")) install.packages("foreach")
