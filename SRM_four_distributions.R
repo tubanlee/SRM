@@ -1,8 +1,4 @@
-
-#These codes and manuscripts are under review in PNAS, please do not share them.
-
-#If you are interested, please do not hesitate to contact me. Coorperation is also welcomed.
-
+#Tuban Lee
 
 #require foreach and doparallel for parallel processing of bootstrap (not available for some types of computers)
 if (!require("foreach")) install.packages("foreach")
@@ -61,6 +57,9 @@ quasiuni_sorted3_asymptotic<-c()
 quasiuni_sorted4_asymptotic<-c()
 quasiuni_sorted5_asymptotic<-c()
 
+#These codes and manuscripts are under review in PNAS, please do not share them.
+
+#If you are interested, please do not hesitate to contact me. Coorperation is also welcomed.
 
 #Weibull
 
